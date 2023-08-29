@@ -14,3 +14,5 @@ Matlab(.fig) files added, matlab scripts (R2022b) for single static obstacle are
 ![Different parameters, 0.2m radius obstacle, sim 4 collide](./fig3_sim4ee.svg)
 
 ## Figure 4
+![NN parameters, 0.2m radius obstacle](./fig4_0.2NN.svg)
+![NN parameters, 0.3m radius obstacle](./fig4_0.3NN.svg)
