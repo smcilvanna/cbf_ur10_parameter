@@ -7,6 +7,7 @@ Matlab(.fig) files and 2022b scripts that generated all images also here.  (#tod
 ## Figure 2 - Trajectories using same parameters for different obstacles
 
 ![Common parameters [21 11], 0.2m radius obstacle](./fig2_0.2.svg)
+![Common parameters [21 11], 0.3m radius obstacle](./fig2_0.3.svg)
 
 ## Figure 3 Trajectories of different parameter values
 
